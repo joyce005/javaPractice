@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Hangman {
 /* INSTANCE VARIABLES */
 	
-	public String[] wordBank = {"python", "jumble", "easy", "difficult", "answer", "xylophone"};
+	public String[] wordBank = {"apple", "banana", "strawberry", "cherry", "orange", "melon"};
 	public String word;
 	public String tempStateOfGuess = "";
 	public String stateOfGuess;
